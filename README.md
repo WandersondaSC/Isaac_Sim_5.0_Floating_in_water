@@ -1,0 +1,1 @@
+This code was created for Isaac Sim 5.0; it works directly in the Isaac Sim script editor. Open Isaac Sim, open the script editor, copy and paste this script or simply open it from a folder. Then click Run, and then play the simulation.
